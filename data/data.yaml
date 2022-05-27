@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../test/images
+
+nc: 5
+names: ['hat','vest','goggles','glove','shoe']
+
