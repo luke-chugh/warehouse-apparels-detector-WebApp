@@ -18,4 +18,5 @@ pytest-shutil
 tensorflow
 keras
 scikit-learn
+pickle-mixin
 
