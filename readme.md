@@ -1,6 +1,8 @@
 # Warehouse Apparels Object Detection WebApp
 
-This WebApp can detect hats, vests, goggles, gloves and shoes using **YOLO V5s**. The dataset was created by web scraping images from google using **selenium chrome webdriver**  
+This WebApp can detect hats, vests, goggles, gloves and shoes using **YOLO V5s**. 
+
+The dataset was created by web scraping images from google using **selenium chrome webdriver**  
 
 # Below are the screenshots of my app:
 
