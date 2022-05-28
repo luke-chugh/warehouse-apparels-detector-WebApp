@@ -17,4 +17,5 @@ streamlit
 pytest-shutil
 tensorflow
 keras
+scikit-learn
 
