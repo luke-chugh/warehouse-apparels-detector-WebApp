@@ -9,3 +9,6 @@ The dataset was created by web scraping images from google using **selenium chro
 ![Capture](https://github.com/luke-chugh/warehouse-apparels-detector-WebApp/blob/main/screenshots/1.png)
 
 ![Capture](https://github.com/luke-chugh/warehouse-apparels-detector-WebApp/blob/main/screenshots/2.png)
+____________
+# Author
+[Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/)
