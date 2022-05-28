@@ -15,4 +15,6 @@ argparse
 pathlib
 streamlit
 pytest-shutil
+tensorflow
+keras
 
