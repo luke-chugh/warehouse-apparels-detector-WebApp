@@ -1,5 +1,10 @@
 # Warehouse Apparels Object Detection WebApp
 
+![](https://img.shields.io/badge/python-3.10.4-blueviolet)
+![](https://img.shields.io/badge/tensorflow-2.9.0-fuchsia)
+![](https://img.shields.io/badge/OpenCV-4.5.5-gold)
+![](https://img.shields.io/badge/streamlit-1.9.1-brightgreen)
+
 This WebApp can detect hats, vests, goggles, gloves and shoes using pre-trained **YOLO V5s**. 
 
 The dataset was created by web scraping images from google using **selenium chrome webdriver**  
